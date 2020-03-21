@@ -2,7 +2,7 @@
 puts '10.6'.to_f
 puts Float('10.5')
 puts 'text'.to_f
-#puts Float('Texto') no soporta cadena de textos
+#puts Float('text') not support strings
 
 #casting to string
 puts 123.4.to_s

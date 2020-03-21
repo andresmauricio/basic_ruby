@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5b285277-711e-4cb2-af5e-7807361fc1cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-casting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../03-casting.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-varibales_instance.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../08-varibales_instance.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -38,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Ruby" />
     <property name="settings.editor.splitter.proportion" value="0.0916096" />
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
@@ -58,7 +67,8 @@
       <workItem from="1584583632276" duration="4259000" />
       <workItem from="1584634731937" duration="271000" />
       <workItem from="1584635062697" duration="163000" />
-      <workItem from="1584635238498" duration="3636000" />
+      <workItem from="1584635238498" duration="11052000" />
+      <workItem from="1584725290909" duration="2529000" />
     </task>
     <servers />
   </component>
@@ -66,10 +76,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="27" width="1169" height="741" key="SettingsEditor" timestamp="1584635649399">
+    <state x="299" y="186" width="824" height="420" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584671130257">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="96" y="27" width="1169" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1584635649399" />
+    <state x="299" y="186" width="824" height="420" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1584671130257" />
+    <state x="100" y="27" width="1169" height="741" key="SettingsEditor" timestamp="1584670503923">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="100" y="27" width="1169" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1584670503923" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584637665290">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

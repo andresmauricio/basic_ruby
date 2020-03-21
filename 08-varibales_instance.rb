@@ -22,7 +22,7 @@ class Elephant
   end
 
   def sound_length
-    @sound_length
+    puts @sound_length
   end
 
   def self.base_sound
@@ -37,5 +37,7 @@ Elephant.base_sound
 ele2.speak
 
 ele1.try_to_speak
+ele1.count_and_store_sound_length
+ele1.sound_length
 
-
+ele2.sound_length
