@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b285277-711e-4cb2-af5e-7807361fc1cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-casting.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../03-casting.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../08-varibales_instance.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../08-varibales_instance.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-filtering-arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10-filtering-arrays.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,7 @@
       <workItem from="1584635062697" duration="163000" />
       <workItem from="1584635238498" duration="11052000" />
       <workItem from="1584725290909" duration="2529000" />
+      <workItem from="1584823088215" duration="7742000" />
     </task>
     <servers />
   </component>
